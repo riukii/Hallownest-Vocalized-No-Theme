@@ -1,0 +1,1 @@
+Fork of the mod Hallownest-Vocalized without the menu theme. I created this mod since everytime I opened the game the modded theme replaced the one I selected, with this fork this won't happen anymore
